@@ -1,0 +1,19 @@
+body {
+    background-color:black;
+  }
+  
+  h1 {
+    font-family: verdana;
+    font-size: 20px;
+    border-style: double;
+    text-align: center;
+    color:blueviolet;
+    margin: 25px 50px 75px 100px;
+  }
+
+  div {
+    background-color:mediumpurple;
+    color: cornsilk;
+    text-align: center;
+    margin: 25px 50px 75px 100px;
+  }
